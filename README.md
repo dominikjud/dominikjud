@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dominikjud
 - 👀 I’m interested in evolutionary anthropology
-- 🌱 I’m currently working on stress in small scale societies 
-- 📫 How to reach me: dominik.jud(at)uzh.ch
+- 🌱 I’m currently working on gene language coevolution 
+- 📫 How to reach me: dominik.jud(at)iea.uzh.ch
 - ⚡ Fun fact: I am porbably in the mountains right now
 
 <!---
